@@ -20,7 +20,7 @@ body {
 .nav-bar {
     list-style: none;
     font-family: helvetica;
-    padding: 16px;
+    padding: 15px;
     margin-right: 0;
     margin-left: 0;
     margin-top: 0;
@@ -56,6 +56,9 @@ body {
 	font-size: 15px;
 	text-decoration: none;
 	position: relative;
-    display: block;
-    padding: 5px 15px;
+    padding: 17px 10px;
+}
+
+.menu:hover {
+  background-color: whitesmoke;
 }
