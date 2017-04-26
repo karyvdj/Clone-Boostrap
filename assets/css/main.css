@@ -1,5 +1,7 @@
-body {
-	margin: 0 auto;
+
+body{
+  font-family: sans-serif;
+  margin:0;
 }
 
 .top-conteiner {
@@ -61,4 +63,26 @@ body {
 
 .menu:hover {
   background-color: whitesmoke;
+}
+
+footer{
+  background: #2a2730;
+  color: white;
+}
+.footerContenedor{
+  padding: 30px;
+  position: relative;
+}
+.footerLi{
+  display:inline-block;
+  margin: 10px;
+}
+.footerA{
+  color: white;
+  font-weight: 100;
+  text-decoration: none;
+}
+#footerP{
+  color:#99979c;
+  margin-left: 4%;
 }
